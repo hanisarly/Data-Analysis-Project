@@ -1,0 +1,12 @@
+Name: numpy
+Version: 1.26.4
+Name: pandas
+Version: 2.2.1
+Name: matplotlib
+Version: 3.8.3
+Name: seaborn
+Version: 0.13.2
+Name: streamlit
+Version: 1.31.1
+Name: Babel
+Version: 2.14.0
